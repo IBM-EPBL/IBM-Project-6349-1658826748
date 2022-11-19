@@ -12,7 +12,7 @@ if status=="lighton":
 print ("led is on")
 else :
 print ("led is off")
-PNT2022TMID4706
+PNT2022TMID47006
 organization = "wjmfdn"
 #print(cmd)
 try:
